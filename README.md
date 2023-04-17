@@ -36,3 +36,10 @@ https://docs.google.com/document/d/1RLNprMFOAOvcCBGEV5ocot1v9YiU_TPherj6U0fPzZo/
 
 # PPT link:
 https://docs.google.com/presentation/d/1H7SPCUDr0PE1l6doeky__nRk0HwksWoN/edit#slide=id.p1
+
+# Static webside link:
+**Note:** In index page updated the image link with the web link. This is only for reference purpose. Please download and run it locally. 
+https://srikrushnap.github.io/padhaikarlo/
+
+
+**Keep contributing to the open source world..!**
