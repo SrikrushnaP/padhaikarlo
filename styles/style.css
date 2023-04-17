@@ -100,3 +100,37 @@
     height: 3rem;
   }
   /* Style for New Section 1 STart */
+
+  .imgSlide{
+     /* Full height */
+     height: 100%; 
+  
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  .imgSlideOne {
+    /* The image used */
+    background-image: url("/asets/images/slide-1.jpg");
+  }
+  .imgSlideTwo {
+    /* The image used */
+    background-image: url("/asets/images/slide-2.jpeg");
+  }
+  .imgSlideThree {
+    /* The image used */
+    background-image: url("/asets/images/slide-3.jpeg");
+  }
+
+  .img-cover{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 1px solid gray;
+  }
+
+  .my-thumb-image{
+    height: 350px;
+    width: 550px;
+  }
