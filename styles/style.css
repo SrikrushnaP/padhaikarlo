@@ -115,15 +115,15 @@
   }
   .imgSlideOne {
     /* The image used */
-    background-image: url("/asets/images/slide-1.jpg");
+    background-image: url("https://i.ibb.co/TLBNsz2/slide-1.jpg");
   }
   .imgSlideTwo {
     /* The image used */
-    background-image: url("/asets/images/slide-2.jpeg");
+    background-image: url("https://i.ibb.co/tQyF75P/slide-2.jpg");
   }
   .imgSlideThree {
     /* The image used */
-    background-image: url("/asets/images/slide-3.jpeg");
+    background-image: url("https://i.ibb.co/6vBNfmB/slide-3.jpg");
   }
 
   .img-cover{
