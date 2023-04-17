@@ -101,6 +101,9 @@
   }
   /* Style for New Section 1 STart */
 
+
+
+/* Style apply to images start */
   .imgSlide{
      /* Full height */
      height: 100%; 
@@ -134,3 +137,4 @@
     height: 350px;
     width: 550px;
   }
+  /* Style apply to images start */
